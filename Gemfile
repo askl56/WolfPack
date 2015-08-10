@@ -13,6 +13,7 @@ gem 'haml-rails'
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'simple_form'
+gem 'annotate', github: 'ctran/annotate_models'
 
 group :development, :test do
   gem 'byebug'
